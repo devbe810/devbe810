@@ -8,7 +8,7 @@ I am a dedicated Software Engineer and Backend Developer with 2 years of experie
 
 *   🌍  I'm based in Malang, Indonesia
 *   ✉️  You can contact me at [devbe810@gmail.com](mailto:devbe810@gmail.com)
-*   🚀  I'm currently working on [TemanCurhat](https://rasahatitalks.com)
+*   🚀  I'm currently working on [Rasahatitalks](https://rasahatitalks.com)
 *   🧠  I'm learning Machine Learning / AI | Data Structures and Algorithms### Skills
 
 
